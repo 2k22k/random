@@ -1,0 +1,58 @@
+.bgred{
+background-color: black;
+}
+.mp{
+    margin: 0;
+    padding: 0;
+}
+.flex{
+    display:flex;
+}
+.concen{
+    justify-content:left;
+}
+.w{
+    color: white;
+    display: inline;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.o{
+    display: inline;
+    color: rgb(245, 127, 59);
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: larger;
+}
+.no{
+    text-decoration: none;
+}
+.center{
+    align-items: center;
+}
+.flexx{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.p{
+    padding: 10px;
+}
+.b{
+    border: 10px;
+    box-shadow: none;
+    border-color: white;
+    
+}
+
+.yyy{
+  border: 19px;
+  border-radius: 30px;
+  border-color:yellow;
+  width: 500px;
+  height: 70px;
+  position: fixed;
+  background-color: aliceblue;
+  display: flex;
+  z-index:0;
+  top: 100px;
+}
